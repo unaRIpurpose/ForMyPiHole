@@ -1,1 +1,1 @@
-0.0.0.0 cardgames.io/reversi
+0.0.0.0 cardgames.io
