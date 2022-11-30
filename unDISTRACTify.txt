@@ -2,4 +2,3 @@
 0.0.0.0 reversi.cardgames.io
 0.0.0.0 sparkchess.com
 0.0.0.0 www.sparkchess.com
-0.0.0.0 pixlr.com
