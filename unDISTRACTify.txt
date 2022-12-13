@@ -3,3 +3,6 @@
 0.0.0.0 sparkchess.com
 0.0.0.0 www.sparkchess.com
 0.0.0.0 www.opindia.com
+0.0.0.0 indianexpress.com
+0.0.0.0 ndtv.com
+0.0.0.0 timesofindia.com
