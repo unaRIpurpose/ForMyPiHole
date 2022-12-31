@@ -12,3 +12,4 @@
 0.0.0.0 m.timesofindia.com
 0.0.0.0 timesofindia.indiatimes.com
 0.0.0.0 msn.com
+0.0.0.0 www.msn.com
